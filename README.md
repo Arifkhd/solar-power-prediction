@@ -1,4 +1,4 @@
-☀ Solar Power Generation Prediction
+☀ Solar Power Generation Prediction <br>
 📌 Project Overview
 This project predicts solar power output based on historical environmental and operational data. The goal is to help understand power generation patterns and improve forecasting for energy planning and efficiency.
 The project applies regression modeling techniques and includes full data analysis, model building, evaluation, and visualization.
