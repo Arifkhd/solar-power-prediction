@@ -86,3 +86,46 @@ R² measures how much of the variability in the target variable is explained by 
 
 Challenge faced:<br>
 Early models showed lower R² because the model wasn’t capturing non-linear relationships well. Switching to tree-based models (like Random Forest and Gradient Boosting) significantly improved the R² score.<br>
+
+💻 Tech Stack<br>
+
+Languages<br>
+1) Python<br>
+2) Libraries<br>
+3) Pandas<br>
+4) NumPy<br>
+5) Scikit-learn<br>
+6) Seaborn<br>
+7) Matplotlib<br>
+
+🚀 How to Run<br>
+1️⃣ Clone the repository<br>
+git clone https://github.com/Arifkhd/solar-power-prediction<br>
+
+2️⃣ Install dependencies<br>
+pip install -r requirements.txt<br>
+
+3️⃣ Run the Streamlit App<br>
+streamlit run app.py<br>
+
+4️⃣ Open in Browser<br>
+
+After running the command, Streamlit will automatically open the app in your browser.<br>
+If it doesn’t, open the link shown in the terminal (usually http://localhost:8501).<br>
+<br>
+<br>
+
+📈 Future Enhancements<br>
+
+1) Deploy using Flask, FastAPI, or Streamlit<br>
+
+2) Integrate real-time sensor or weather API data<br>
+
+3) Add automated monitoring and retraining (MLOps)<br>
+
+4) Expand dataset to include seasonal and geographical variations<br>
+
+🤝 Contribution<br>
+
+Open to pull requests and improvements.<br>
+Please create an issue for major changes.<br>
